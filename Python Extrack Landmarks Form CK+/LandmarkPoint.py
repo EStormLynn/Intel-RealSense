@@ -8,10 +8,10 @@ def drawLandmarkPoint(img,color):
 
     file_txt = open("S035_003_00000001_landmarks.txt", "a+")
     lines = file_txt.readlines()
-    t=1
+    t=1             #特征点标号
     for line in lines:
         line_object=line.split(" ")
-        x=float(line_object[3])
+        x=float(line_object[3])         #原始数据是科学记数法，这里转换成浮点型
         y=float(line_object[-1])
         print x,y
         #draw.ellipse((0, 0, 200, 200), fill="red", outline="red")
@@ -25,7 +25,6 @@ def readFile(filepath):
     fileName = os.path.split(filepath)[1]           #获取路径中文件名
     #对新生成的文件进行命名的过程
     CKDataDir = os.path.join(nowDir, "CKData.txt")
-
 
     fCK_image = open(CKDataDir, "a")
     fCK_image.write(os.path.splitext(fileName)[0]+"\t")
@@ -43,13 +42,11 @@ def readFile(filepath):
         image_y = float(line_object[-1])
         pointData = bytes(id) + "\t" + bytes(image_x) + "\t" + bytes(image_y) +"\t"
         fCK_image.write(pointData)
-
         print pointData
 
     fCK_image.write("\n")
     f1.close()
     fCK_image.close()
-
 
     global picturecount
     picturecount+=1
