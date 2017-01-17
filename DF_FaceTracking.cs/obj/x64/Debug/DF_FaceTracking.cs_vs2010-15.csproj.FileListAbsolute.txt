@@ -1,0 +1,10 @@
+D:\Program Files (x86)\Intel\RSSDK\framework\CSharp\DF_FaceTracking.cs\bin\x64\Debug\DF_FaceTracking.cs.exe.config
+D:\Program Files (x86)\Intel\RSSDK\framework\CSharp\DF_FaceTracking.cs\bin\x64\Debug\DF_FaceTracking.cs.exe
+D:\Program Files (x86)\Intel\RSSDK\framework\CSharp\DF_FaceTracking.cs\bin\x64\Debug\DF_FaceTracking.cs.pdb
+D:\Program Files (x86)\Intel\RSSDK\framework\CSharp\DF_FaceTracking.cs\bin\x64\Debug\libpxcclr.cs.dll
+D:\Program Files (x86)\Intel\RSSDK\framework\CSharp\DF_FaceTracking.cs\obj\x64\Debug\DF_FaceTracking.cs_vs2010-15.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\Intel\RSSDK\framework\CSharp\DF_FaceTracking.cs\obj\x64\Debug\DF_FaceTracking.cs.MainForm.resources
+D:\Program Files (x86)\Intel\RSSDK\framework\CSharp\DF_FaceTracking.cs\obj\x64\Debug\DF_FaceTracking.cs.Properties.Resources.resources
+D:\Program Files (x86)\Intel\RSSDK\framework\CSharp\DF_FaceTracking.cs\obj\x64\Debug\DF_FaceTracking.cs_vs2010-15.csproj.GenerateResource.Cache
+D:\Program Files (x86)\Intel\RSSDK\framework\CSharp\DF_FaceTracking.cs\obj\x64\Debug\DF_FaceTracking.cs.exe
+D:\Program Files (x86)\Intel\RSSDK\framework\CSharp\DF_FaceTracking.cs\obj\x64\Debug\DF_FaceTracking.cs.pdb
