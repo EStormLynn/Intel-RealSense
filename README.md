@@ -1,5 +1,7 @@
-# Intel-RealSense
+﻿# Intel-RealSense
 Intel-RealSense Emotion Recognize
+使用RealSense SR300 DepthCamera作为采集设备，使用RealSense接口完成数据采集。
+从CK+动态表情库中提取数据，转化成统一的RealSense标准。
 
 ## DF_FaceTracking.cs
 从CK+动态表情库中提取，特征点信息  
