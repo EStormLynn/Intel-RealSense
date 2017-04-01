@@ -26,4 +26,4 @@ Intel-RealSense Emotion Recognize
 3.实现Python递归动态处理一个目录下多个文件夹，多个文件的数据  
 
 
-![landmarkPoint of RS and CK+](Intel-RealSense/Image/landmarkPoint of RS and CK+.png)
+![landmarkPoint of RS and CK+](https://github.com/EStormLynn/Intel-RealSense/blob/master/Image/landmarkPoint%20of%20RS%20and%20CK%2B.png)
