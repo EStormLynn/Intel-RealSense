@@ -24,3 +24,6 @@ Intel-RealSense Emotion Recognize
 1.将CK+库中表情的特征点和Realsense采集的特征点关联，进行转换   
 2.将每个表情的多张图片序列，数据信息整合到一个txt中，方便做动态表情识别   
 3.实现Python递归动态处理一个目录下多个文件夹，多个文件的数据  
+
+
+![landmarkPoint of RS and CK+](Intel-RealSense/Image/landmarkPoint of RS and CK+.png)
