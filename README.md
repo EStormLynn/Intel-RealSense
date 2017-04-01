@@ -14,7 +14,7 @@ Intel-RealSense Emotion Recognize
 修改：增加深度限定，面部离摄像头在25cm内，才能开始记录数据。      
       FaceDateLess记录原有32个点的数据
 
-![程序界面](https://github.com/EStormLynn/Intel-RealSense/blob/master/Image/界面.png)
+<img src="https://github.com/EStormLynn/Intel-RealSense/blob/master/Image/界面.png" width="663" height="350" alt="程序界面"/>1
 
 
 ## Python Extrack Landmarks From CK+
@@ -26,4 +26,4 @@ Intel-RealSense Emotion Recognize
 3.实现Python递归动态处理一个目录下多个文件夹，多个文件的数据  
 
 
-![landmarkPoint of RS and CK+](https://github.com/EStormLynn/Intel-RealSense/blob/master/Image/landmarkPoint%20of%20RS%20and%20CK%2B.png)
+<img src="https://github.com/EStormLynn/Intel-RealSense/blob/master/Image/landmarkPoint%20of%20RS%20and%20CK%2B.png" width="680" height="350" alt="landmarkPoint of RS and CK+"/>1
