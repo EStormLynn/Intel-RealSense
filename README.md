@@ -16,6 +16,16 @@ Intel-RealSense Emotion Recognize
 
 <div align=center><img src="https://github.com/EStormLynn/Intel-RealSense/blob/master/Image/界面.png" width="663" height="350" alt="程序界面"/></div>
 
+## FeatureVisualTool
+可视化FaceTracking采集的数据，对特征进行观察，方便就行特征选取，验证数据有效性。    
+ 
+主要完成：    
+1.通过FolderBrowserDialog完成windows平台数据文件选取			    
+2.计算每一帧图片的25维，欧氏距离特征    
+3.可动态查看每一帧和中性表情特征变化差值     
+4.采用投票的方式计算出可能为哪一种特征     
+
+<div align=center><img src="https://github.com/EStormLynn/Intel-RealSense/blob/master/Image/FeatureVisualTool.png" width="663" height="350" alt="程序界面"/></div>
 
 ## Python Extrack Landmarks From CK+
 从CK+动态表情库中提取，特征点信息  
