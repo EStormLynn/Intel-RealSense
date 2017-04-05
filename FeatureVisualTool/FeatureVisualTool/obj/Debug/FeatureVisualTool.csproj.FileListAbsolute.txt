@@ -1,9 +1,0 @@
-E:\RealSense\Project\Intel-RealSense\Intel-RealSense\FeatureVisualTool\FeatureVisualTool\bin\Debug\TestFolderBrowserDialog.exe.config
-E:\RealSense\Project\Intel-RealSense\Intel-RealSense\FeatureVisualTool\FeatureVisualTool\bin\Debug\TestFolderBrowserDialog.exe
-E:\RealSense\Project\Intel-RealSense\Intel-RealSense\FeatureVisualTool\FeatureVisualTool\bin\Debug\TestFolderBrowserDialog.pdb
-E:\RealSense\Project\Intel-RealSense\Intel-RealSense\FeatureVisualTool\FeatureVisualTool\obj\Debug\FeatureVisualTool.csprojResolveAssemblyReference.cache
-E:\RealSense\Project\Intel-RealSense\Intel-RealSense\FeatureVisualTool\FeatureVisualTool\obj\Debug\TestFolderBrowserDialog.Form1.resources
-E:\RealSense\Project\Intel-RealSense\Intel-RealSense\FeatureVisualTool\FeatureVisualTool\obj\Debug\TestFolderBrowserDialog.Properties.Resources.resources
-E:\RealSense\Project\Intel-RealSense\Intel-RealSense\FeatureVisualTool\FeatureVisualTool\obj\Debug\FeatureVisualTool.csproj.GenerateResource.Cache
-E:\RealSense\Project\Intel-RealSense\Intel-RealSense\FeatureVisualTool\FeatureVisualTool\obj\Debug\TestFolderBrowserDialog.exe
-E:\RealSense\Project\Intel-RealSense\Intel-RealSense\FeatureVisualTool\FeatureVisualTool\obj\Debug\TestFolderBrowserDialog.pdb
