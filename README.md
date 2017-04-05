@@ -17,7 +17,7 @@ Intel-RealSense Emotion Recognize
 <div align=center><img src="https://github.com/EStormLynn/Intel-RealSense/blob/master/Image/界面.png" width="663" height="350" alt="程序界面"/></div>
 
 ## FeatureVisualTool
-可视化FaceTracking采集的数据，对特征进行观察，方便就行特征选取，验证数据有效性。    
+FeatureVisualTool工具，可视化FaceTracking采集的数据，对特征进行观察，方便就行特征选取，验证数据有效性。    
  
 主要完成：    
 1.通过FolderBrowserDialog完成windows平台数据文件选取			    
@@ -35,5 +35,16 @@ Intel-RealSense Emotion Recognize
 2.将每个表情的多张图片序列，数据信息整合到一个txt中，方便做动态表情识别   
 3.实现Python递归动态处理一个目录下多个文件夹，多个文件的数据  
 
-
+#### 将ck点转换成realsense的点 r:ck 共66个点。
+```
+CK_to_RealSense={0:22,1:21,2:20,3:19,4:18,
+                 5:23,6:24,7:25,8:26,9:27,
+                 10:10,11:39,12:38,14:37,16:42,17:41,
+                 18:43,19:44,20:45,22:46,24:47,25:48,
+                 26:28,27:29,28:30,29:31,30:32,31:34,32:36,
+                 33:49,34:50,35:51,36:52,37:53,38:54,39:55,40:56,41:57,42:58,43:59,44:60,
+                 45:61,46:62,47:63,48:64,49:65,50:66,51:67,52:68,
+                 53:1,54:2,55:3,56:4,57:5,58:6,59:7,60:8,61:9,62:10,63:11,64:12,65:13,66:14,67:15,68:16,69:17
+                 }
+```
 <div align=center><img src="https://github.com/EStormLynn/Intel-RealSense/blob/master/Image/landmarkPoint%20of%20RS%20and%20CK%2B.png" width="680" height="350" alt="landmarkPoint of RS and CK+"/></div>
