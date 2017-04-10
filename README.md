@@ -16,6 +16,24 @@ Intel-RealSense Emotion Recognize
 
 <div align=center><img src="https://github.com/EStormLynn/Intel-RealSense/blob/master/Image/界面.png" width="663" height="350" alt="程序界面"/></div>
 
+## ExtrackMatrixFormCK+
+特征点数据点云化，包含不同压缩率的矩阵压缩
+```
+tree /f
+│  ExtractMatrixFromCK.py		    点云矩阵提取
+│
+└─MatrixCompression			        矩阵压缩
+        MatrixCompression.py		压缩成66x490
+        MatrixCompressionPlus.py	压缩成66x98
+```
+文件名*|说明|
+---|---|---
+Matrix_*|原始矩阵无压缩640x490|
+MatrixCp_*|列未压缩，行为点间相对位置66x490|
+matrixCpPlus_*|列压缩原来1/5，如果原尺寸5个像素点内的，偏移一个像素点，行为点间相对位置66x98 |
+
+
+
 ## FeatureVisualTool
 FeatureVisualTool工具，可视化FaceTracking采集的数据，对特征进行观察，方便就行特征选取，验证数据有效性。    
  
