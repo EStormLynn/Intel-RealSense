@@ -20,11 +20,11 @@ Intel-RealSense Emotion Recognize
 特征点数据点云化，包含不同压缩率的矩阵压缩
 ```
 tree /f
-│  ExtractMatrixFromCK.py		    点云矩阵提取
+│  ExtractMatrixFromCK.py			点云矩阵提取
 │
-└─MatrixCompression			        矩阵压缩
-        MatrixCompression.py		压缩成66x490
-        MatrixCompressionPlus.py	压缩成66x98
+└─MatrixCompression				矩阵压缩
+        MatrixCompression.py			压缩成66x490
+        MatrixCompressionPlus.py		压缩成66x98
 ```
 文件名 | 说明 
 ---|---
