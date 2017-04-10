@@ -26,12 +26,11 @@ tree /f
         MatrixCompression.py		压缩成66x490
         MatrixCompressionPlus.py	压缩成66x98
 ```
-文件名*|说明|
+文件名 | 说明 |
 ---|---|---
-Matrix_*|原始矩阵无压缩640x490|
-MatrixCp_*|列未压缩，行为点间相对位置66x490|
-matrixCpPlus_*|列压缩原来1/5，如果原尺寸5个像素点内的，偏移一个像素点，行为点间相对位置66x98 |
-
+Matrix_*.txt|原始矩阵无压缩640x490|
+MatrixCp_*.txt|列未压缩，行为点间相对位置66x490|
+matrixCpPlus_*.txt|列压缩原来1/5，如果原尺寸5个像素点内的，偏移一个像素点，行为点间相对位置66x98 |    
 
 
 ## FeatureVisualTool
