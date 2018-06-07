@@ -8,3 +8,18 @@ D:\Program Files (x86)\Intel\RSSDK\framework\CSharp\DF_FaceTracking.cs\obj\x86\D
 D:\Program Files (x86)\Intel\RSSDK\framework\CSharp\DF_FaceTracking.cs\obj\x86\Debug\DF_FaceTracking.cs_vs2010-15.csproj.GenerateResource.Cache
 D:\Program Files (x86)\Intel\RSSDK\framework\CSharp\DF_FaceTracking.cs\obj\x86\Debug\DF_FaceTracking.cs.exe
 D:\Program Files (x86)\Intel\RSSDK\framework\CSharp\DF_FaceTracking.cs\obj\x86\Debug\DF_FaceTracking.cs.pdb
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\bin\win32\Debug\DF_FaceTracking.cs.exe.config
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\obj\x86\Debug\DF_FaceTracking.cs.exe
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\obj\x86\Debug\DF_FaceTracking.cs.pdb
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\bin\win32\Debug\DF_FaceTracking.cs.exe.manifest
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\bin\win32\Debug\DF_FaceTracking.cs.application
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\bin\win32\Debug\DF_FaceTracking.cs.exe
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\bin\win32\Debug\DF_FaceTracking.cs.pdb
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\bin\win32\Debug\libpxcclr.cs.dll
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\obj\x86\Debug\DF_FaceTracking.cs_vs2010-15.csprojResolveAssemblyReference.cache
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\obj\x86\Debug\DF_FaceTracking.cs.MainForm.resources
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\obj\x86\Debug\DF_FaceTracking.cs.Properties.Resources.resources
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\obj\x86\Debug\DF_FaceTracking.cs_vs2010-15.csproj.GenerateResource.Cache
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\obj\x86\Debug\DF_FaceTracking.cs.TrustInfo.xml
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\obj\x86\Debug\DF_FaceTracking.cs.exe.manifest
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\obj\x86\Debug\DF_FaceTracking.cs.application

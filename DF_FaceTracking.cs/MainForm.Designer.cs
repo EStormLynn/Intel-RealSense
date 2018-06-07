@@ -141,21 +141,21 @@
             this.Live.Checked = true;
             this.Live.CheckState = System.Windows.Forms.CheckState.Checked;
             this.Live.Name = "Live";
-            this.Live.Size = new System.Drawing.Size(127, 22);
+            this.Live.Size = new System.Drawing.Size(152, 22);
             this.Live.Text = "Live";
             this.Live.Click += new System.EventHandler(this.Live_Click);
             // 
             // Playback
             // 
             this.Playback.Name = "Playback";
-            this.Playback.Size = new System.Drawing.Size(127, 22);
+            this.Playback.Size = new System.Drawing.Size(152, 22);
             this.Playback.Text = "Playback";
             this.Playback.Click += new System.EventHandler(this.Playback_Click);
             // 
             // Record
             // 
             this.Record.Name = "Record";
-            this.Record.Size = new System.Drawing.Size(127, 22);
+            this.Record.Size = new System.Drawing.Size(152, 22);
             this.Record.Text = "Record";
             this.Record.Click += new System.EventHandler(this.Record_Click);
             // 
@@ -362,6 +362,8 @@
             this.textBoxTip.Name = "textBoxTip";
             this.textBoxTip.Size = new System.Drawing.Size(75, 21);
             this.textBoxTip.TabIndex = 54;
+            this.textBoxTip.Text = "Distance";
+            this.textBoxTip.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // MainForm
             // 
@@ -393,7 +395,7 @@
             this.DoubleBuffered = true;
             this.MaximizeBox = false;
             this.Name = "MainForm";
-            this.Text = "Intel(R) RealSense(TM) SDK: Face Tracking";
+            this.Text = "Intel RealSense : Face Tracking表情数据采集工具";
             this.MainMenu.ResumeLayout(false);
             this.MainMenu.PerformLayout();
             this.Status2.ResumeLayout(false);
