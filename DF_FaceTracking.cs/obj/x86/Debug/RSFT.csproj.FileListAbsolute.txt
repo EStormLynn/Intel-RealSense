@@ -1,0 +1,15 @@
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\bin\win32\Debug\libpxcclr.cs.dll
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\obj\x86\Debug\RSFT.csprojResolveAssemblyReference.cache
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\obj\x86\Debug\DF_FaceTracking.cs.MainForm.resources
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\obj\x86\Debug\DF_FaceTracking.cs.Properties.Resources.resources
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\obj\x86\Debug\RSFT.csproj.GenerateResource.Cache
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\bin\win32\Debug\RSFT.exe.config
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\bin\win32\Debug\RSFT.exe.manifest
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\bin\win32\Debug\RSFT.application
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\bin\win32\Debug\RSFT.exe
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\bin\win32\Debug\RSFT.pdb
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\obj\x86\Debug\RSFT.TrustInfo.xml
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\obj\x86\Debug\RSFT.exe.manifest
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\obj\x86\Debug\RSFT.application
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\obj\x86\Debug\RSFT.exe
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\obj\x86\Debug\RSFT.pdb

@@ -1,0 +1,14 @@
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\bin\win32\Release\RSFT.exe.config
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\bin\win32\Release\RSFT.exe.manifest
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\bin\win32\Release\RSFT.application
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\bin\win32\Release\RSFT.exe
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\bin\win32\Release\RSFT.pdb
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\bin\win32\Release\libpxcclr.cs.dll
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\obj\x86\Release\DF_FaceTracking.cs.MainForm.resources
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\obj\x86\Release\DF_FaceTracking.cs.Properties.Resources.resources
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\obj\x86\Release\RSFT.csproj.GenerateResource.Cache
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\obj\x86\Release\RSFT.TrustInfo.xml
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\obj\x86\Release\RSFT.exe.manifest
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\obj\x86\Release\RSFT.application
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\obj\x86\Release\RSFT.exe
+E:\RealSense\Project\Intel-RealSense\Intel-RealSense\DF_FaceTracking.cs\obj\x86\Release\RSFT.pdb
